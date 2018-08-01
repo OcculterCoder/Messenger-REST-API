@@ -1,1 +1,1 @@
-# Messenger-REST-API
+# Messenger-REST-API built with Jersey JAX-RS.
